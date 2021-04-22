@@ -8,3 +8,9 @@ if __name__ == "__main__":
     arr = list(filter(lambda x: x != top_score, arr))
     runner_up_score = max(arr)
     print(runner_up_score)
+
+# Sample Input
+# Enter no. of scores: 5
+# Enter n scores separated by a space: 2 3 6 6 5
+# Output
+# 5
