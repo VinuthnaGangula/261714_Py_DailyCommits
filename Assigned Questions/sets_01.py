@@ -1,4 +1,4 @@
-# To find the maximum and the minimum value in a set.
+# Python program to find the maximum and the minimum value in a set.
 
 n = int(input("Enter no. of elements in the set: "))
 set_ = set()
