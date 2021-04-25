@@ -5,12 +5,12 @@ def modify_string(s, pos, ch):
     list_[pos] = ch
     return "".join(list_)
 
+
 if __name__ == "__main__":
     s = input("Enter the string: ")
     pos = int(input("Enter position: "))
     ch = input("Enter the character: ")
     print(modify_string(s, pos, ch))
-
 
 # Sample Input
 # Enter the string: modify
