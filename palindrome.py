@@ -1,4 +1,4 @@
-# To check if a string is palindrome or not
+# To check if a string is palindrome or not. Spaces are ignored and case insensitive.
 
 s = input("Enter the string: ")
 
